@@ -1,0 +1,83 @@
+.div1{
+    width: 600px;
+     height: 500px;
+     background-color: black;
+     margin-top: 900px;
+     margin-left: 900px;
+}
+.div1 img {
+    display: flex; flex-direction: row; 
+}
+.qwert{
+    margin-left: 310px;
+    margin-top: -264px;
+}
+.qwers{
+    margin-left: 310px;
+    margin-top: -235px;
+}
+.div2{
+    width: 600px;
+     height: 500px;
+     background-image: url(12.webp);
+     margin-left: 1500px;
+     margin-top: -900px;
+}
+.div2 h1 {
+    color: white;
+margin-left: 40px;
+
+}
+.div2 p{
+    color: aliceblue;
+    margin-left: 40px;
+}
+.div3{
+    width: 560px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px 5px rgb(105, 100, 100);
+    margin-top: -500px;
+    margin-left: 970px;
+    display: flex; flex-direction: row; 
+    
+}
+.qas{
+    margin-top: 100px;
+    margin-left: -150px;
+}
+.sdf{
+    margin-top: 250px;
+    margin-left: -550px;
+}
+.qws{
+    margin-top: 130px;
+    margin-left: 50px;
+    width: 400px;
+}
+.qwd{
+    margin-top: 300px;
+    width: 400px;
+}
+.div4{
+    width: 560px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    display: flex; flex-direction: row; 
+    margin-left: 1500px;
+    box-shadow: 0px 0px 5px 5px rgb(105, 100, 100);
+}
+.style{
+    width: 100px;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: -100px;
+}
+.src{
+    margin-top: 80px;
+    margin-left: 90px;
+}
+.kl{
+    margin-left: 60px;
+    margin-top: 80px;
+}
